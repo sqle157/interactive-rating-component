@@ -29,4 +29,4 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/sqle157/interactive-rating-component)
-- Live Site URL: [Github Page]()
+- Live Site URL: [Github Page](https://sqle157.github.io/interactive-rating-component/)
